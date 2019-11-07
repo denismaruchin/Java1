@@ -4,7 +4,7 @@ public class Task2 {
     static void println(String str) {
         System.out.println(str);
     }
-    static int subtraction(int x, int y) {
+    public static int subtraction(int x, int y) {
         int z = x - y;
         return z;
     }
